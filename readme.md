@@ -1,8 +1,8 @@
 Welcome to my profile. Here you'll find my repositories, most of them I'm using for the education of my students.
 
-# Project
-Bij dit project heb ik een eenvoudige zoek engine gebouwd.
-* [Help me](www.google.com)
+## Websites
+Bij dit project heb ik een eenvoudige zoek engine gebouwd.[Link naar websitje](www.google.com). Ik heb hier vooral gewerkt aan de backend.
+ ![Beer](https://placebear.com/200/300)
 
-# OOP
+## OOP
 Ik weet nog niet wat een object is, maar ik heb wel eens met inheritance gewerkt.
